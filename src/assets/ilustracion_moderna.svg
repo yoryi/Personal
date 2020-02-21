@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1107.034" height="1492.028" viewBox="0 0 1107.034 1492.028">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1107.034" height="1492.028" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1.057" y1="-0.154" x2="0.452" y2="0.436" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7000f4"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="Repetir_cuadrícula_2" data-name="Repetir cuadrícula 2" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <g id="Grupo_38" data-name="Grupo 38" transform="translate(-902.186 246.432)">
+      <path id="Trazado_2" data-name="Trazado 2" d="M2039.664,0s-265.441-554.473-644.627,0S609.082,537.5,1136.274,623.245s903.39,660.351,903.39,660.351Z" transform="translate(17.556)" fill="url(#linear-gradient)"/>
+      <text id="Developer" transform="translate(1210.219 539)" fill="#fff" font-size="230" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Developer</tspan></text>
+    </g>
+  </g>
+</svg>
